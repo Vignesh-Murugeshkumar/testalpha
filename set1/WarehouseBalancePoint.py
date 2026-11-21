@@ -1,4 +1,6 @@
 
+
+
 def balancepoint(arr):
     total = 0
 
@@ -21,5 +23,6 @@ def balancepoint(arr):
 
 
 arr=[3, -2, 5, 4, 1, 5]
+
 
 print(balancepoint(arr))
